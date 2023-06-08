@@ -1,0 +1,97 @@
+
+*{margin: 0;
+padding: 0;}
+.home_page{
+   
+    height: 700px;
+width: auto;
+}
+
+ .meun_bar{
+    display: flex;
+    justify-content:center;
+    height: 40px;
+margin-top: 40px;
+margin-left:375px ;
+margin-right: 375px;
+
+ } 
+ 
+ 
+.logo{
+    height: 40px;
+    margin-top: 40px;
+margin-left: 375px;
+   margin-right: 500px;
+}
+.menu{
+    height: 17px;
+    margin-top: 55px;
+margin-right: 375px;
+
+}
+.content{
+
+display: flex;
+justify-content:space-between;
+}
+.home_meta{
+   width: 522px;
+height: 374px;
+}
+.title{
+    display: flex;
+    align-items: center ;
+    margin-top: 84px;
+    margin-left: 373px;
+width: 522px;
+height: auto;
+}
+.sub_title{
+margin-top: 17px;
+width: 466px;
+margin-left: 373px;
+}
+
+.button_meta{
+    display: flex;
+    justify-content: space-between;
+margin-top: 37px;
+margin-left: 373px;
+}
+.video{
+    
+margin-left: 73px; 
+height: auto; 
+margin-top: auto;
+margin-bottom: auto;
+}
+.image{
+margin-top: 84px;
+    margin-left: auto;
+    margin-right: 375px;
+}
+.brand{
+    height: fit-content;
+    width: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.brand_logo{
+    display: flex;
+    justify-content: center;
+margin-top: 97px;
+margin-bottom: auto;
+margin-left: 345px;
+margin-right: auto;
+}
+.brand_logo1{
+    margin-right: 48px;
+}
+.brand_logo2{margin-right: 48px;}
+.brand_logo3{margin-right: 48px;}
+.brand_logo4{margin-right: 48px;}
+.brand_logo5{margin: right 48px;}
+.brand_logo6{margin-left: 48px;
+             margin-right: auto;}
